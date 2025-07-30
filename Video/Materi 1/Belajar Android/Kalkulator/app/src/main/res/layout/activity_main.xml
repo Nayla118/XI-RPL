@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="#FAFAFA">
+
+    <!-- Spacer atas -->
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/txtHasil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="96sp"
+        android:textStyle="bold"
+        android:textColor="#212121"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/edtAngka1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan angka pertama"
+        android:inputType="numberDecimal"
+        android:backgroundTint="#9E9E9E"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/edtAngka2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan angka kedua"
+        android:inputType="numberDecimal"
+        android:backgroundTint="#9E9E9E"
+        android:textSize="18sp"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Tombol-tombol -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnTambah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PENJUMLAHAN"
+        android:textColor="#FFFFFF"
+        app:cornerRadius="50dp"
+        app:backgroundTint="#2196F3"
+        android:layout_marginBottom="8dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnKurang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PENGURANGAN"
+        android:textColor="#FFFFFF"
+        app:cornerRadius="50dp"
+        app:backgroundTint="#F44336"
+        android:layout_marginBottom="8dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnKali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PERKALIAN"
+        android:textColor="#FFFFFF"
+        app:cornerRadius="50dp"
+        app:backgroundTint="#9C27B0"
+        android:layout_marginBottom="8dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnBagi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PEMBAGIAN"
+        android:textColor="#FFFFFF"
+        app:cornerRadius="50dp"
+        app:backgroundTint="#607D8B"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Spacer bawah -->
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>
