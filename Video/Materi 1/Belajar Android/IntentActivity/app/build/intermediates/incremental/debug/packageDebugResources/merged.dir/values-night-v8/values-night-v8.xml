@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MessageDialog" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">#1F2C3C</item>
+        <item name="colorPrimaryVariant">#16222A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        
+        <item name="colorSecondary">#27AE60</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        
+        <item name="android:windowBackground">#121212</item>
+
+        <item name="colorOnBackground">#FFFFFF</item>
+
+        
+        <item name="android:statusBarColor">#1F2C3C</item>
+        <item name="android:navigationBarColor">#16222A</item>
+    </style>
+</resources>

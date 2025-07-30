@@ -1,0 +1,36 @@
+com.kelas.recyclerviewcardview.app-transition-1.5.0-0 C:\Users\Kal'el\.gradle\caches\8.13\transforms\0a29aa8f94a5de6be58fbe464c97b9d6\transformed\transition-1.5.0\res
+com.kelas.recyclerviewcardview.app-viewpager2-1.1.0-beta02-1 C:\Users\Kal'el\.gradle\caches\8.13\transforms\0e8dea5415366a8ef8169ecc35396a81\transformed\viewpager2-1.1.0-beta02\res
+com.kelas.recyclerviewcardview.app-constraintlayout-2.2.1-2 C:\Users\Kal'el\.gradle\caches\8.13\transforms\24d843877aab6213672629bbf0a73de1\transformed\constraintlayout-2.2.1\res
+com.kelas.recyclerviewcardview.app-savedstate-1.2.1-3 C:\Users\Kal'el\.gradle\caches\8.13\transforms\2eed9071a0a65f356f9715ffcb139119\transformed\savedstate-1.2.1\res
+com.kelas.recyclerviewcardview.app-customview-poolingcontainer-1.0.0-4 C:\Users\Kal'el\.gradle\caches\8.13\transforms\3ded1ebefda8429eec8c9c5581c8098b\transformed\customview-poolingcontainer-1.0.0\res
+com.kelas.recyclerviewcardview.app-lifecycle-runtime-2.6.2-5 C:\Users\Kal'el\.gradle\caches\8.13\transforms\41638cb286ba5efafbc74c2b162ce80b\transformed\lifecycle-runtime-2.6.2\res
+com.kelas.recyclerviewcardview.app-fragment-1.5.4-6 C:\Users\Kal'el\.gradle\caches\8.13\transforms\46b28f211051dc5d1bbb0fdb41d65124\transformed\fragment-1.5.4\res
+com.kelas.recyclerviewcardview.app-core-ktx-1.13.0-7 C:\Users\Kal'el\.gradle\caches\8.13\transforms\4dd1c736d4e4a671fc1958e9f9695bf9\transformed\core-ktx-1.13.0\res
+com.kelas.recyclerviewcardview.app-core-viewtree-1.0.0-8 C:\Users\Kal'el\.gradle\caches\8.13\transforms\6d676bf21035e5aee583461f6be164b7\transformed\core-viewtree-1.0.0\res
+com.kelas.recyclerviewcardview.app-appcompat-1.7.1-9 C:\Users\Kal'el\.gradle\caches\8.13\transforms\720037184d0d8e80fac55383f39109bf\transformed\appcompat-1.7.1\res
+com.kelas.recyclerviewcardview.app-emoji2-1.3.0-10 C:\Users\Kal'el\.gradle\caches\8.13\transforms\75b6e7fffefe2760d2d4ab13fc7e4e2d\transformed\emoji2-1.3.0\res
+com.kelas.recyclerviewcardview.app-annotation-experimental-1.4.0-11 C:\Users\Kal'el\.gradle\caches\8.13\transforms\87e3597db2ddf9367473445d14cc0ee8\transformed\annotation-experimental-1.4.0\res
+com.kelas.recyclerviewcardview.app-core-runtime-2.2.0-12 C:\Users\Kal'el\.gradle\caches\8.13\transforms\9178ffbaa3b1e7e634a790f44e53c9c9\transformed\core-runtime-2.2.0\res
+com.kelas.recyclerviewcardview.app-emoji2-views-helper-1.3.0-13 C:\Users\Kal'el\.gradle\caches\8.13\transforms\934951b4a1e88a112e1888c67d033a4b\transformed\emoji2-views-helper-1.3.0\res
+com.kelas.recyclerviewcardview.app-recyclerview-1.4.0-14 C:\Users\Kal'el\.gradle\caches\8.13\transforms\950c758e0b1982d81c726469bdc47b8e\transformed\recyclerview-1.4.0\res
+com.kelas.recyclerviewcardview.app-coordinatorlayout-1.1.0-15 C:\Users\Kal'el\.gradle\caches\8.13\transforms\9a86a3da59a0bccad9811f592f3808c8\transformed\coordinatorlayout-1.1.0\res
+com.kelas.recyclerviewcardview.app-lifecycle-viewmodel-2.6.2-16 C:\Users\Kal'el\.gradle\caches\8.13\transforms\a6cfc3448940f38bf583d944d941da5a\transformed\lifecycle-viewmodel-2.6.2\res
+com.kelas.recyclerviewcardview.app-core-1.13.0-17 C:\Users\Kal'el\.gradle\caches\8.13\transforms\a793f3d97151a47f240dc7f3d8b3025c\transformed\core-1.13.0\res
+com.kelas.recyclerviewcardview.app-material-1.12.0-18 C:\Users\Kal'el\.gradle\caches\8.13\transforms\b999b372a0258ccd583ce2881becd3bc\transformed\material-1.12.0\res
+com.kelas.recyclerviewcardview.app-startup-runtime-1.1.1-19 C:\Users\Kal'el\.gradle\caches\8.13\transforms\ba710b346a93488a21477eae88549acf\transformed\startup-runtime-1.1.1\res
+com.kelas.recyclerviewcardview.app-drawerlayout-1.1.1-20 C:\Users\Kal'el\.gradle\caches\8.13\transforms\bca725a19cfcf5d3e77f39dd6ee0b413\transformed\drawerlayout-1.1.1\res
+com.kelas.recyclerviewcardview.app-cardview-1.0.0-21 C:\Users\Kal'el\.gradle\caches\8.13\transforms\bd1e2d5f7f3bc11d6a479b9cd348be47\transformed\cardview-1.0.0\res
+com.kelas.recyclerviewcardview.app-lifecycle-viewmodel-savedstate-2.6.2-22 C:\Users\Kal'el\.gradle\caches\8.13\transforms\bd3fc0c53f64c86e2194a18b70263582\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.kelas.recyclerviewcardview.app-appcompat-resources-1.7.1-23 C:\Users\Kal'el\.gradle\caches\8.13\transforms\c38a91e601bd9d459f03229dd109a18f\transformed\appcompat-resources-1.7.1\res
+com.kelas.recyclerviewcardview.app-lifecycle-livedata-2.6.2-24 C:\Users\Kal'el\.gradle\caches\8.13\transforms\c83c732000e4916e0cc833cf1ecc6bcd\transformed\lifecycle-livedata-2.6.2\res
+com.kelas.recyclerviewcardview.app-lifecycle-process-2.6.2-25 C:\Users\Kal'el\.gradle\caches\8.13\transforms\d676899655480589929858e558c6e2a6\transformed\lifecycle-process-2.6.2\res
+com.kelas.recyclerviewcardview.app-lifecycle-livedata-core-2.6.2-26 C:\Users\Kal'el\.gradle\caches\8.13\transforms\e99ad478c78fbe596300244ee3814d44\transformed\lifecycle-livedata-core-2.6.2\res
+com.kelas.recyclerviewcardview.app-activity-1.10.1-27 C:\Users\Kal'el\.gradle\caches\8.13\transforms\eb4c2848df067cec60ee756824c5f347\transformed\activity-1.10.1\res
+com.kelas.recyclerviewcardview.app-profileinstaller-1.4.0-28 C:\Users\Kal'el\.gradle\caches\8.13\transforms\f995afe19b6a49ef7f72b679d94f09f7\transformed\profileinstaller-1.4.0\res
+com.kelas.recyclerviewcardview.app-pngs-29 C:\xampp\htdocs\KELAS-XI\MATERI 1\RECYCLER-VIEW-CARD-VIEW\app\build\generated\res\pngs\debug
+com.kelas.recyclerviewcardview.app-resValues-30 C:\xampp\htdocs\KELAS-XI\MATERI 1\RECYCLER-VIEW-CARD-VIEW\app\build\generated\res\resValues\debug
+com.kelas.recyclerviewcardview.app-packageDebugResources-31 C:\xampp\htdocs\KELAS-XI\MATERI 1\RECYCLER-VIEW-CARD-VIEW\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.kelas.recyclerviewcardview.app-packageDebugResources-32 C:\xampp\htdocs\KELAS-XI\MATERI 1\RECYCLER-VIEW-CARD-VIEW\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.kelas.recyclerviewcardview.app-debug-33 C:\xampp\htdocs\KELAS-XI\MATERI 1\RECYCLER-VIEW-CARD-VIEW\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.kelas.recyclerviewcardview.app-debug-34 C:\xampp\htdocs\KELAS-XI\MATERI 1\RECYCLER-VIEW-CARD-VIEW\app\src\debug\res
+com.kelas.recyclerviewcardview.app-main-35 C:\xampp\htdocs\KELAS-XI\MATERI 1\RECYCLER-VIEW-CARD-VIEW\app\src\main\res

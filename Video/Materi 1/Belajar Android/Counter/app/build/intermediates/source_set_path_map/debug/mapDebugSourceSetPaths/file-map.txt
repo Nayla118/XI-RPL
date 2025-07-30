@@ -1,0 +1,35 @@
+com.example.counter.app-lifecycle-livedata-2.6.2-0 C:\Users\Administrator\.gradle\caches\8.13\transforms\0a42f40601087ff8eca479462d57ad6a\transformed\lifecycle-livedata-2.6.2\res
+com.example.counter.app-core-ktx-1.13.0-1 C:\Users\Administrator\.gradle\caches\8.13\transforms\168d3440c81ebaa43678bbb2d1e68de0\transformed\core-ktx-1.13.0\res
+com.example.counter.app-core-runtime-2.2.0-2 C:\Users\Administrator\.gradle\caches\8.13\transforms\246e8b04052267f62e28436b7ab231ee\transformed\core-runtime-2.2.0\res
+com.example.counter.app-emoji2-1.3.0-3 C:\Users\Administrator\.gradle\caches\8.13\transforms\26cc4e939715710c883df7a837cb91fa\transformed\emoji2-1.3.0\res
+com.example.counter.app-core-viewtree-1.0.0-4 C:\Users\Administrator\.gradle\caches\8.13\transforms\27cb328cd6381d1dd3ed4053f5f5cd7f\transformed\core-viewtree-1.0.0\res
+com.example.counter.app-appcompat-resources-1.7.1-5 C:\Users\Administrator\.gradle\caches\8.13\transforms\2a41819dbb4c0977fcbf8178eab7ee88\transformed\appcompat-resources-1.7.1\res
+com.example.counter.app-fragment-1.5.4-6 C:\Users\Administrator\.gradle\caches\8.13\transforms\378c8d085f1d64baefa52b7f8075b02c\transformed\fragment-1.5.4\res
+com.example.counter.app-emoji2-views-helper-1.3.0-7 C:\Users\Administrator\.gradle\caches\8.13\transforms\3a118886c109bf0fd6fd163018f8d353\transformed\emoji2-views-helper-1.3.0\res
+com.example.counter.app-startup-runtime-1.1.1-8 C:\Users\Administrator\.gradle\caches\8.13\transforms\4042815986da01ff554616c56cdfe138\transformed\startup-runtime-1.1.1\res
+com.example.counter.app-transition-1.2.0-9 C:\Users\Administrator\.gradle\caches\8.13\transforms\46d2b1b5314b4e1a9caecf2a96591735\transformed\transition-1.2.0\res
+com.example.counter.app-viewpager2-1.0.0-10 C:\Users\Administrator\.gradle\caches\8.13\transforms\5418356d9c77f7e575d5e050c90eb8a2\transformed\viewpager2-1.0.0\res
+com.example.counter.app-recyclerview-1.1.0-11 C:\Users\Administrator\.gradle\caches\8.13\transforms\558fdc171f602098d6e58758d0b5e33e\transformed\recyclerview-1.1.0\res
+com.example.counter.app-appcompat-1.7.1-12 C:\Users\Administrator\.gradle\caches\8.13\transforms\5635f18fca049daa08db71a81901940b\transformed\appcompat-1.7.1\res
+com.example.counter.app-core-1.13.0-13 C:\Users\Administrator\.gradle\caches\8.13\transforms\6648a275815469a6a3eb7b24cdd05ab9\transformed\core-1.13.0\res
+com.example.counter.app-material-1.10.0-14 C:\Users\Administrator\.gradle\caches\8.13\transforms\6ef325c4397a16e202f008246a62e5ad\transformed\material-1.10.0\res
+com.example.counter.app-lifecycle-process-2.6.2-15 C:\Users\Administrator\.gradle\caches\8.13\transforms\70c6f143380a3c49104048690c05f104\transformed\lifecycle-process-2.6.2\res
+com.example.counter.app-activity-1.10.1-16 C:\Users\Administrator\.gradle\caches\8.13\transforms\72ca06f1e15563b91e6916cbcc4e9e73\transformed\activity-1.10.1\res
+com.example.counter.app-lifecycle-viewmodel-2.6.2-17 C:\Users\Administrator\.gradle\caches\8.13\transforms\786de5883d9351e363ac9992dfbb89bc\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.counter.app-profileinstaller-1.4.0-18 C:\Users\Administrator\.gradle\caches\8.13\transforms\81bf49252a30c158c03d7c64f6c6d482\transformed\profileinstaller-1.4.0\res
+com.example.counter.app-lifecycle-livedata-core-2.6.2-19 C:\Users\Administrator\.gradle\caches\8.13\transforms\8d0ed3f1519b6c3b500ac13e357fd32e\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.counter.app-annotation-experimental-1.4.0-20 C:\Users\Administrator\.gradle\caches\8.13\transforms\9e85a5eff8580c8a3cde330a9d6179c3\transformed\annotation-experimental-1.4.0\res
+com.example.counter.app-coordinatorlayout-1.1.0-21 C:\Users\Administrator\.gradle\caches\8.13\transforms\9fd8b4f4b5d548b1acac87c03e826de1\transformed\coordinatorlayout-1.1.0\res
+com.example.counter.app-lifecycle-viewmodel-savedstate-2.6.2-22 C:\Users\Administrator\.gradle\caches\8.13\transforms\a5e5f2714ccce1cc26a1bc2eea5d2d26\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.counter.app-lifecycle-runtime-2.6.2-23 C:\Users\Administrator\.gradle\caches\8.13\transforms\aa14c02841fd08343c0115d25d58953c\transformed\lifecycle-runtime-2.6.2\res
+com.example.counter.app-constraintlayout-2.1.4-24 C:\Users\Administrator\.gradle\caches\8.13\transforms\dddee0722f7e553e944901dde9127b2e\transformed\constraintlayout-2.1.4\res
+com.example.counter.app-cardview-1.0.0-25 C:\Users\Administrator\.gradle\caches\8.13\transforms\f2fb7ca6f7fec28577511d33f96ed4c4\transformed\cardview-1.0.0\res
+com.example.counter.app-savedstate-1.2.1-26 C:\Users\Administrator\.gradle\caches\8.13\transforms\f408e9a090472e104ede7e69859c1569\transformed\savedstate-1.2.1\res
+com.example.counter.app-drawerlayout-1.1.1-27 C:\Users\Administrator\.gradle\caches\8.13\transforms\f679fd0167934a21f1f5ad3b43fab21d\transformed\drawerlayout-1.1.1\res
+com.example.counter.app-pngs-28 C:\XI RPL\Video\Belajar Android\Counter\app\build\generated\res\pngs\debug
+com.example.counter.app-resValues-29 C:\XI RPL\Video\Belajar Android\Counter\app\build\generated\res\resValues\debug
+com.example.counter.app-packageDebugResources-30 C:\XI RPL\Video\Belajar Android\Counter\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.counter.app-packageDebugResources-31 C:\XI RPL\Video\Belajar Android\Counter\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.counter.app-debug-32 C:\XI RPL\Video\Belajar Android\Counter\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.counter.app-debug-33 C:\XI RPL\Video\Belajar Android\Counter\app\src\debug\res
+com.example.counter.app-main-34 C:\XI RPL\Video\Belajar Android\Counter\app\src\main\res

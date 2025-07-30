@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+anim rotate
+color black
+color white
+drawable edittext_rounded
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable thermometer
+id buttonConvert
+id buttonReset
+id editTextNumber
+id imageThermometer
+id spinnerFrom
+id spinnerTo
+id textViewResult
+id title
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.KonversiSuhu
+style Theme.KonversiSuhu
+xml backup_rules
+xml data_extraction_rules

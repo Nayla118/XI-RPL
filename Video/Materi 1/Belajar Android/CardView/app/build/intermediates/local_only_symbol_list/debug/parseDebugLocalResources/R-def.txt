@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable orang
+id textAddress
+id textName
+layout activity_main
+layout item_card
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.CardView
+style Theme.CardView
+xml backup_rules
+xml data_extraction_rules
